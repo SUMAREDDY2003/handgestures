@@ -1,0 +1,13 @@
+referenecE:-  https://www.computervision.zone/lessons/code-and-files-23/
+
+
+install 
+  1.tensorflow
+  2.mediapipe
+  3.cvzone
+
+
+
+
+
+
